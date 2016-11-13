@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<html>
+<head>
+   <meta charset="utl-8">
+   <script language="javascript">
+   var Cel=prompt("enter drgree Celsius");
+   var Hua=(9/5*Cel)+32;
+   alert("Fahrenheit"+Hua);
+   </script>
+</head>
+<body>
+</body>
+</html>
